@@ -1,2 +1,2 @@
-# Eng-computa-o-Aulas-Phytom
+# Eng-computa-o-Aulas-Phyton
 Aulas sobre algoritmos em phytom para o curso de engenharia da computação
