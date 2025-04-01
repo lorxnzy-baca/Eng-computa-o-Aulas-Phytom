@@ -58,10 +58,16 @@
 # # else:
 # #     print("Reprovado")
 #
-# # nome_completo = input("Nome completo: ")
-# # idade = int(input("Idade: "))
-# # altura = float(input("Altura: "))
+# nome_completo = input("Nome completo: ")
+# idade = int(input("Idade: "))
+# altura = float(input("Altura: "))
 #
-# # print("Seu nome é:",nome_completo)
-# # print("Sua idade é:",idade)
-# # print("Sua altura é:",altura)
+# print("Seu nome é:",nome_completo)
+# print("Sua idade é:",idade)
+# print("Sua altura é:",altura)
+
+if media_final >= 6:
+    print("Aprovado")
+else:
+    print("Reprovado")
+
