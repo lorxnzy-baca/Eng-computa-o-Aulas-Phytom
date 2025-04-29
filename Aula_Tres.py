@@ -60,8 +60,21 @@
 #     print(f"A sua passagem custará: R${distancia * 0.45:.2f}")
 
 #Exercicio 5
-operacao = input("Digite qual operação deseja fazer: ")
-
-numero1 = float(input("Digite o primeiro número: "))
-numero2 = float(input("Digite o segundo número: "))
+# operacao = input("Digite qual operação deseja fazer: ")
+#
+# numero1 = float(input("Digite o primeiro número: "))
+# numero2 = float(input("Digite o segundo número: "))
+#
+# if operacao == "soma":
+#     soma = numero1 + numero2
+#     print(f"O resultado é: {soma}")
+# elif operacao == "subtração":
+#     subtracao = numero1 - numero2
+#     print(f"O resultado é: {subtracao}")
+# elif operacao == "divisão":
+#     divisao = numero1 / numero2
+#     print(f"O resultado é: {divisao}")
+# elif operacao == "multiplicação":
+#     multiplicacao = numero1 * numero2
+#     print(f"O resultado é: {multiplicacao}")
 
